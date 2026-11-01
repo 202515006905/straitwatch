@@ -4,12 +4,17 @@
 
 ## 在线大屏
 
-| 用途 | 地址 |
-| --- | --- |
-| 主地址 | https://202515006905.github.io/straitwatch/ |
-| 备用（国内 CDN，主地址打不开时用） | https://gcore.jsdelivr.net/gh/202515006905/straitwatch@ff9dfe81fee5da790c43693f0fed20632ebff391/index.html |
+**主地址**（推荐，点开就是大屏）：
 
-> 备用地址锁定到某一次提交，所以永远指向同一个可用版本，不会被 CDN 旧缓存坑到。
+```
+https://202515006905.github.io/straitwatch/
+```
+
+**国内打不开主地址时**，用这个备用（同一份内容，CDN 加速，锁定到某次提交所以不会被旧缓存坑）：
+
+```
+https://gcore.jsdelivr.net/gh/202515006905/straitwatch@ff9dfe81fee5da790c43693f0fed20632ebff391/index.html
+```
 
 ## 打开后会看到什么
 
